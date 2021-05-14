@@ -1,0 +1,83 @@
+#content {
+    background-color: #f5f6f7;
+    height:100vh;
+    width: 100%;
+    padding: 30px 200px;
+    display: block;
+    position: relative;
+}
+
+#content1 {
+    width: 980px;
+    margin: 30px auto;
+    background-color: #fff;
+    -webkit-box-shadow: 0 1px 1px #ddd;
+    box-shadow: 0 1px 1px #ddd;
+    position: relative;
+    padding: 30px 70px;
+    text-align: justify;
+    
+}
+
+#content1 a {
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+#content1 a1 {
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 60px;
+}
+
+#content1 a2 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 100px;
+}
+
+#footer {
+    height: 100px;
+    margin-top: 50px;
+    padding: 10px 70px;
+    background: #f5f6f7;
+    font-size: 10px;
+    text-align:center;
+    color:  #777;;;
+}
+
+#footer p{
+    padding: 3px 0;
+}
+
+#QRcode {
+    float: right;
+    position: absolute;
+    height: 140px;
+    background: #fff;
+    padding: 10px 10px;
+    width: 120px;
+    bottom: 200px;
+    left: 1330px;
+    font-size: 10px;
+}
+
+#QRcode img{
+    width: 100%;
+}
+#home {
+    float: right;
+    position: absolute;
+    height: 50px;
+    background: #fff;
+    padding: 10px 10px;
+    width: 50px;
+    bottom: 130px;
+    left: 1330px;
+    font-size: 10px;
+}
+
+#home img{
+    width: 100%;
+}
